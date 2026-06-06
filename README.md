@@ -6,7 +6,8 @@ B.Sc. Microbiology Thesis — University of Cape Coast
 
 | File | Description |
 |------|-------------|
-| `Thesis_ASH_Revised.pdf` | Complete revised thesis (38 pages) |
+| `Thesis_ASH_Revised.docx` | Complete revised thesis — Word format (editable) |
+| `Thesis_ASH_Revised.pdf` | Complete revised thesis — PDF format (38 pages) |
 | `ASH_Presentation_Revised.pptx` | Thesis defense presentation (16 slides) |
 
 ## Key Corrections Applied
